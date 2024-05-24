@@ -1,4 +1,4 @@
-# Arcade Game
+# Dungeons-JS
 
 Welcome to the Arcade Game project! This is a dungeon-style arcade game where you can battle against various enemies, visit the town to buy new weapons or heal your health to get back into the fight. Beware of the final boss, the dragon!
 
