@@ -25,11 +25,8 @@ Welcome to the Arcade Game project! This is a dungeon-style arcade game where yo
 2. Open the `index.html` file in your web browser.
 3. Start playing the Arcade Game!
 
-## Screenshots
-![Gameplay Screenshot](screenshots/gameplay.png)
-
 ## Credits
-This project was developed by [Your Name].
+This project was developed by UPCJ.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
